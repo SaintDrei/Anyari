@@ -2,7 +2,16 @@
 .pager {
     width: 100vw;
     height: 93.3vh;
+    
+}
+
+.place {
     background-image: url("../../pimg.jpg");
     background-size: 100% 100%;
     background-clip: content-box;
+}
+
+.firstbox {
+    height: 93vh;
+width:    83.33333vw;
 }
