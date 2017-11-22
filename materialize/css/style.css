@@ -2,7 +2,7 @@
 .pager {
     width: 100vw;
     height: 93.3vh;
-    
+    padding-top: 1.3vh;
 }
 
 .place {
@@ -13,5 +13,5 @@
 
 .firstbox {
     height: 93vh;
-width:    83.33333vw;
+
 }
